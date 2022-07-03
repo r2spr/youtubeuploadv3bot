@@ -3,7 +3,7 @@ class Messages:
     START_MSG = (
         "**__Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtubeonce you authorise me.__** "
         "**__once you authorise me.You can know more from /help.\nThank you for using Meh 😁**__"
-        "\n\n**__Support ME:-\n Join Movies Channel: [Click Here](https://t.me/HombaleCinemas)__**"
+        "\n\n**__Join & Support:-\n Hombale Cinemas Channel: [Click Here](https://t.me/HombaleCinemas)__**"
         "\n **__Request Latest Movies Only : [Click Here.](https://t.me/HombaleCinemasChat)__**"
         "\n\n**__You can know more from /help.__**"
         "\n**__Or use /login to get started.__**"
