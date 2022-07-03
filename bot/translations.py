@@ -17,7 +17,7 @@ class Messages:
         "uploaded, and you will not be able to publish the video.\n\nRead through all the pages to know how I work.",
         "**Lets learn how I work.**\n\n**Step 1:** __You authorise me to upload to your youtube channel.More about "
         "this in comming pages.__\n\n**Step 2:** __You forward any Telegram video to me.__\n\n**Step 3:** __You reply "
-        "__/upload __to the forwarded video file.You can also specify some title in the upload command, but its "
+        "__ /upload __to the forwarded video file.You can also specify some title in the upload command, but its "
         "optional though.Title will follow the __`/upload`.__If no title is given, filename will be used as title.__"
         "\n\n**Step 4:** __I remotely download the file and uploads to your Youtube channel.__\n\n**Step 5:** __I "
         "send you the Youtube link after upload.__",
@@ -35,7 +35,7 @@ class Messages:
         "open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and "
         "send it.\n\n**Fear not!**\nI'm not a hacker or someone who wants to creep into people's privacy. I respect "
         "Everyone's privacy. I'm here just to help anyone who wants help. If I was a hacker I won't be sitting here "
-        "[Writing Telegram Bots](https://t.me/HombaleBots).",
+        "Writing Telegram [Bots](https://t.me/HombaleBots).",
     ]
 
     LOGIN_MSG = (
