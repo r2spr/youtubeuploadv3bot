@@ -1,9 +1,9 @@
 class Messages:
 
     START_MSG = (
-        "**__Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtubeonce you authorise me.__** "
-        "**__once you authorise me.You can know more from /help.\nThank you for using Meh 😁**__"
-        "\n\n**__Join & Support:-\n Hombale Cinemas Channel: [Click Here](https://t.me/HombaleCinemas)__**"
+        "**__Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube once you authorise me.__** "
+        "**__ You can know more from /help.\nThank you🤍**__"
+        "\n\n**__JOIN & SUPPORT:-\n Join Movies Channel: [Click Here](https://t.me/HombaleCinemas)__**"
         "\n **__Request Latest Movies Only : [Click Here.](https://t.me/HombaleCinemasChat)__**"
         "\n\n**__You can know more from /help.__**"
         "\n**__Or use /login to get started.__**"
@@ -17,7 +17,7 @@ class Messages:
         "uploaded, and you will not be able to publish the video.\n\nRead through all the pages to know how I work.",
         "**Lets learn how I work.**\n\n**Step 1:** __You authorise me to upload to your youtube channel.More about "
         "this in comming pages.__\n\n**Step 2:** __You forward any Telegram video to me.__\n\n**Step 3:** __You reply "
-        "__ /upload __to the forwarded video file.You can also specify some title in the upload command, but its "
+        "__/upload __to the forwarded video file.You can also specify some title in the upload command, but its "
         "optional though.Title will follow the __`/upload`.__If no title is given, filename will be used as title.__"
         "\n\n**Step 4:** __I remotely download the file and uploads to your Youtube channel.__\n\n**Step 5:** __I "
         "send you the Youtube link after upload.__",
@@ -34,8 +34,8 @@ class Messages:
         "**Now lets authorise.**\n\nYou need to give me the access to upload videos to your Youtube account.For that "
         "open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and "
         "send it.\n\n**Fear not!**\nI'm not a hacker or someone who wants to creep into people's privacy. I respect "
-        "Everyone's privacy. I'm here just to help anyone who wants help. If I was a hacker I won't be sitting here "
-        "Writing Telegram [Bots](https://t.me/HombaleBots).",
+        "one's privacy. I'm here just to help anyone who wants help. If I was a hacker I won't be sitting here "
+        "writing Telegram Bots.",
     ]
 
     LOGIN_MSG = (
